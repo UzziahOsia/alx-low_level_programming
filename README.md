@@ -1,1 +1,1 @@
-Introduction to C, the commits explain what each file entails
+This directory containis directories on Alx low level Programming
