@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _checker - Checks the function _sqrt_recursion
  * @a: Integer
