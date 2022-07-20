@@ -1,7 +1,9 @@
 #include "main.h"
 #include <string.h>
 /**
- * wildcmp - check the code for Holberton School students.
+ * wildcmp - function that compares two strings 
+ * and returns 1 if the strings can be considered 
+ * identical, otherwise return 0
  * @s1 : parameter
  * @s2 : parameter
  * Return: return
